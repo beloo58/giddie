@@ -1,0 +1,22 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Building base -->
+  <rect x="20" y="24" width="24" height="32" fill="#2563EB" rx="2"/>
+  
+  <!-- Building windows -->
+  <rect x="24" y="28" width="4" height="4" fill="#FFA500"/>
+  <rect x="32" y="28" width="4" height="4" fill="#FFA500"/>
+  <rect x="24" y="36" width="4" height="4" fill="#FFA500"/>
+  <rect x="32" y="36" width="4" height="4" fill="#FFA500"/>
+  <rect x="24" y="44" width="4" height="4" fill="#FFA500"/>
+  <rect x="32" y="44" width="4" height="4" fill="#FFA500"/>
+  
+  <!-- Crane pole -->
+  <rect x="38" y="18" width="2" height="38" fill="#2563EB"/>
+  
+  <!-- Crane arm -->
+  <rect x="32" y="18" width="10" height="2" fill="#FFA500"/>
+  
+  <!-- Crane hook -->
+  <circle cx="32" cy="24" r="2" fill="#FFA500"/>
+  <path d="M 32 26 Q 32 28 34 28" stroke="#FFA500" stroke-width="1.5" fill="none"/>
+</svg>
